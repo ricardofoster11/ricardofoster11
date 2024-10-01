@@ -1,10 +1,13 @@
 ### Hellow World, I'm Ricardo Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
 ##
-<div align="center">
-  <a href="https://github.com/ricardofoster11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardofoster11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofoster11&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardofoster11&theme=tokyonight">
+
+<div align="left">
+<a href="https://github.com/ricardofoster11">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardofoster11&theme=tokyonight">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardofoster11&theme=tokyonight">
+</a>
 </div>
 
 ##
