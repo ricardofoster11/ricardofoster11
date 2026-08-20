@@ -4,7 +4,7 @@
 
 🐍 Python | SQL | ETL
 
-⚽ Currently building data projects focused on football analytics.
+⚽ Currently building end-to-end data projects focused on ETL, data modeling, SQL, Python, and Power BI.
 ##
 
 Murphy’s Law: it works on my machine 😅
